@@ -211,7 +211,7 @@ Cuando el usuario selecciona origen y destino, la aplicación ejecuta el algorit
 
 ## 7. Resultados y pruebas
 
-A continuación se presentan tres pruebas de funcionamiento de la aplicación.
+A continuación se presentan tres pruebas de funcionamiento realizadas en la aplicación. En cada caso se seleccionó una ciudad de origen, una ciudad de destino y se ejecutó el cálculo de la ruta óptima mediante el algoritmo de Dijkstra.
 
 ### Prueba 1
 
@@ -221,8 +221,26 @@ A continuación se presentan tres pruebas de funcionamiento de la aplicación.
 * **Perfil:** Sedán
 * **Octanaje:** 95
 
-**Resultado esperado:**
-La aplicación debe mostrar una ruta óptima entre Paris y Berlin, la distancia total en kilómetros, la estimación de litros de combustible, el costo aproximado y la visualización del grafo con la ruta resaltada.
+**Ruta óptima obtenida:**
+
+```text
+Paris → Frankfurt → Berlin
+```
+
+**Distancia total:**
+
+```text
+1123.00 km
+```
+
+**Resultados adicionales:**
+
+* Distancia en metros: 1.123.000 metros.
+* Distancia en millas: 697.80 millas.
+* Litros estimados: 86.38 L.
+* Costo estimado: $119.211 CLP.
+
+En esta prueba, la aplicación encontró correctamente una ruta entre Paris y Berlin utilizando ciudades intermedias. Además, se visualizó el grafo sobre el mapa y la ruta óptima fue resaltada.
 
 ---
 
@@ -231,11 +249,29 @@ La aplicación debe mostrar una ruta óptima entre Paris y Berlin, la distancia 
 * **Origen:** Londres
 * **Destino:** Viena
 * **Modo:** Vehículo
-* **Perfil:** Auto compacto
-* **Octanaje:** 93
+* **Perfil:** Sedán
+* **Octanaje:** 95
 
-**Resultado esperado:**
-La aplicación debe encontrar una ruta que conecte Londres con Viena mediante ciudades intermedias. También debe mostrar el costo total del recorrido y modificar la estimación según el rendimiento del vehículo seleccionado.
+**Ruta óptima obtenida:**
+
+```text
+Londres → Bruselas → Frankfurt → Munich → Viena
+```
+
+**Distancia total:**
+
+```text
+1573.00 km
+```
+
+**Resultados adicionales:**
+
+* Distancia en metros: 1.573.000 metros.
+* Distancia en millas: 977.42 millas.
+* Litros estimados: 121.00 L.
+* Costo estimado: $166.980 CLP.
+
+En esta prueba, la aplicación calculó una ruta de mayor longitud que atraviesa varias ciudades del grafo. El resultado muestra que el grafo se encuentra conectado y permite encontrar caminos entre ciudades alejadas.
 
 ---
 
@@ -243,10 +279,30 @@ La aplicación debe encontrar una ruta que conecte Londres con Viena mediante ci
 
 * **Origen:** Milan
 * **Destino:** Budapest
-* **Modo:** Caminando
+* **Modo:** Vehículo
+* **Perfil:** Sedán
+* **Octanaje:** 95
 
-**Resultado esperado:**
-La aplicación debe mostrar la ruta óptima, la distancia total, el tiempo estimado caminando y las calorías aproximadas asociadas al recorrido.
+**Ruta óptima obtenida:**
+
+```text
+Milan → Venecia → Ljubljana → Zagreb → Budapest
+```
+
+**Distancia total:**
+
+```text
+1005.00 km
+```
+
+**Resultados adicionales:**
+
+* Distancia en metros: 1.005.000 metros.
+* Distancia en millas: 624.48 millas.
+* Litros estimados: 77.31 L.
+* Costo estimado: $106.685 CLP.
+
+En esta prueba, la aplicación encontró una ruta que conecta Italia, Eslovenia, Croacia y Hungría. La visualización permite observar claramente el recorrido resaltado sobre el grafo.
 
 ---
 
