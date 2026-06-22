@@ -41,9 +41,9 @@ No se mezclaron criterios como distancia aérea, precio de pasajes, tiempo de vi
 | Zurich | Milan | 279 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
 | Milan | Venecia | 270 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
 | Budapest | Viena | 244 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Venecia | Ljubljana | ___ | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Ljubljana | Zagreb | ___ | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Zagreb | Budapest | ___ | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
+| Venecia | Ljubljana | 243 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
+| Ljubljana | Zagreb | 147 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
+| Zagreb | Budapest | 345 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
 
 ## Nota
 
