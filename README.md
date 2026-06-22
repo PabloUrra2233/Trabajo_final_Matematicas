@@ -183,16 +183,16 @@ Reglas de trabajo:
 
 ## Estado del proyecto
 
-* [ ] Estructura base del repositorio
-* [ ] Carga de ciudades desde CSV
-* [ ] Carga de conexiones desde CSV
-* [ ] Implementación de Dijkstra
-* [ ] Interfaz gráfica
-* [ ] Visualización del grafo
-* [ ] Ruta óptima resaltada
-* [ ] Documentación de fuentes
-* [ ] Pruebas de funcionamiento
-* [ ] Informe técnico
+* [x] Estructura base del repositorio
+* [x] Carga de ciudades desde CSV
+* [x] Carga de conexiones desde CSV
+* [x] Implementación de Dijkstra
+* [x] Interfaz gráfica
+* [x] Visualización del grafo
+* [x] Ruta óptima resaltada
+* [x] Documentación de fuentes
+* [x] Pruebas de funcionamiento
+* [x] Informe técnico
 * [ ] Presentación final
 
 ---
