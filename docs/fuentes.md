@@ -18,32 +18,32 @@ No se mezclaron criterios como distancia aérea, precio de pasajes, tiempo de vi
 
 ## Conexiones verificadas
 
-| Origen | Destino | Distancia km | Fuente |
-|---|---|---:|---|
-| Paris | Londres | 459 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Paris | Bruselas | 312 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Paris | Frankfurt | 572 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Paris | Zurich | 584 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Londres | Bruselas | 380 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Londres | Amsterdam | 555 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Bruselas | Amsterdam | 231 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Bruselas | Frankfurt | 398 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Amsterdam | Berlin | 656 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Amsterdam | Frankfurt | 444 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Frankfurt | Berlin | 551 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Frankfurt | Munich | 393 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Frankfurt | Zurich | 410 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Berlin | Praga | 347 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Praga | Munich | 383 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Praga | Viena | 335 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Munich | Zurich | 316 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Munich | Viena | 402 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Zurich | Milan | 279 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Milan | Venecia | 270 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Budapest | Viena | 244 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Venecia | Ljubljana | 243 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Ljubljana | Zagreb | 147 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
-| Zagreb | Budapest | 345 | Google Maps, ruta en vehículo, consultado el 22-06-2026 |
+| Origen    | Destino   | Distancia km | Fuente                                                                                       |
+| --------- | --------- | -----------: | -------------------------------------------------------------------------------------------- |
+| Paris     | Londres   |          459 | [Google Maps](https://www.google.com/maps/dir/Paris,+France/London,+United+Kingdom)          |
+| Paris     | Bruselas  |          312 | [Google Maps](https://www.google.com/maps/dir/Paris,+France/Brussels,+Belgium)               |
+| Paris     | Frankfurt |          572 | [Google Maps](https://www.google.com/maps/dir/Paris,+France/Frankfurt,+Germany)              |
+| Paris     | Zurich    |          584 | [Google Maps](https://www.google.com/maps/dir/Paris,+France/Zurich,+Switzerland)             |
+| Londres   | Bruselas  |          380 | [Google Maps](https://www.google.com/maps/dir/London,+United+Kingdom/Brussels,+Belgium)      |
+| Londres   | Amsterdam |          555 | [Google Maps](https://www.google.com/maps/dir/London,+United+Kingdom/Amsterdam,+Netherlands) |
+| Bruselas  | Amsterdam |          231 | [Google Maps](https://www.google.com/maps/dir/Brussels,+Belgium/Amsterdam,+Netherlands)      |
+| Bruselas  | Frankfurt |          398 | [Google Maps](https://www.google.com/maps/dir/Brussels,+Belgium/Frankfurt,+Germany)          |
+| Amsterdam | Berlin    |          656 | [Google Maps](https://www.google.com/maps/dir/Amsterdam,+Netherlands/Berlin,+Germany)        |
+| Amsterdam | Frankfurt |          444 | [Google Maps](https://www.google.com/maps/dir/Amsterdam,+Netherlands/Frankfurt,+Germany)     |
+| Frankfurt | Berlin    |          551 | [Google Maps](https://www.google.com/maps/dir/Frankfurt,+Germany/Berlin,+Germany)            |
+| Frankfurt | Munich    |          393 | [Google Maps](https://www.google.com/maps/dir/Frankfurt,+Germany/Munich,+Germany)            |
+| Frankfurt | Zurich    |          410 | [Google Maps](https://www.google.com/maps/dir/Frankfurt,+Germany/Zurich,+Switzerland)        |
+| Berlin    | Praga     |          347 | [Google Maps](https://www.google.com/maps/dir/Berlin,+Germany/Prague,+Czechia)               |
+| Praga     | Munich    |          383 | [Google Maps](https://www.google.com/maps/dir/Prague,+Czechia/Munich,+Germany)               |
+| Praga     | Viena     |          335 | [Google Maps](https://www.google.com/maps/dir/Prague,+Czechia/Vienna,+Austria)               |
+| Munich    | Zurich    |          316 | [Google Maps](https://www.google.com/maps/dir/Munich,+Germany/Zurich,+Switzerland)           |
+| Munich    | Viena     |          402 | [Google Maps](https://www.google.com/maps/dir/Munich,+Germany/Vienna,+Austria)               |
+| Zurich    | Milan     |          279 | [Google Maps](https://www.google.com/maps/dir/Zurich,+Switzerland/Milan,+Italy)              |
+| Milan     | Venecia   |          270 | [Google Maps](https://www.google.com/maps/dir/Milan,+Italy/Venice,+Italy)                    |
+| Budapest  | Viena     |          244 | [Google Maps](https://www.google.com/maps/dir/Budapest,+Hungary/Vienna,+Austria)             |
+| Venecia   | Ljubljana |          243 | [Google Maps](https://www.google.com/maps/dir/Venice,+Italy/Ljubljana,+Slovenia)             |
+| Ljubljana | Zagreb    |          147 | [Google Maps](https://www.google.com/maps/dir/Ljubljana,+Slovenia/Zagreb,+Croatia)           |
+| Zagreb    | Budapest  |          345 | [Google Maps](https://www.google.com/maps/dir/Zagreb,+Croatia/Budapest,+Hungary)             |
 
 ## Nota
 
